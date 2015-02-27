@@ -1,0 +1,11 @@
+# Site settings
+title: It's All Around
+email: davidjerwin@gmail.com
+description: > # It's All Around
+baseurl: "/htdocs/itsallaround" 
+url: "http://itsallaround" 
+twitter_username: daviderwin
+github_username:  daviderwin
+
+# Build settings
+markdown: kramdown
